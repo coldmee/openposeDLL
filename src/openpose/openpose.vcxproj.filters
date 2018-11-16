@@ -1,0 +1,434 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\3d\cameraParameterReader.cpp">
+      <Filter>Source Files\3d</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\3d\defineTemplates.cpp">
+      <Filter>Source Files\3d</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\3d\jointAngleEstimation.cpp">
+      <Filter>Source Files\3d</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\3d\poseTriangulation.cpp">
+      <Filter>Source Files\3d</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\calibration\cameraParameterEstimation.cpp">
+      <Filter>Source Files\calibration</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\calibration\gridPatternFunctions.cpp">
+      <Filter>Source Files\calibration</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\core\array.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\core\cvMatToOpInput.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\core\cvMatToOpOutput.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\core\datum.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\core\defineTemplates.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\core\gpuRenderer.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\core\keepTopNPeople.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\core\keypointScaler.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\core\opOutputToCvMat.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\core\point.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\core\rectangle.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\core\renderer.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\core\scaleAndSizeExtractor.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\face\defineTemplates.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\face\faceDetector.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\face\faceDetectorOpenCV.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\face\faceExtractorCaffe.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\face\faceExtractorNet.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\face\faceCpuRenderer.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\face\faceGpuRenderer.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\face\faceRenderer.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\face\renderFace.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\filestream\bvhSaver.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\filestream\cocoJsonSaver.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\filestream\defineTemplates.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\filestream\fileSaver.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\filestream\fileStream.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\filestream\heatMapSaver.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\filestream\imageSaver.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\filestream\jsonOfstream.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\filestream\keypointSaver.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\filestream\peopleJsonSaver.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\filestream\udpSender.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\filestream\videoSaver.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\gpu\cuda.cpp">
+      <Filter>Source Files\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\gpu\gpu.cpp">
+      <Filter>Source Files\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\gpu\opencl.cpp">
+      <Filter>Source Files\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\gui\defineTemplates.cpp">
+      <Filter>Source Files\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\gui\frameDisplayer.cpp">
+      <Filter>Source Files\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\gui\gui.cpp">
+      <Filter>Source Files\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\gui\guiAdam.cpp">
+      <Filter>Source Files\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\gui\gui3D.cpp">
+      <Filter>Source Files\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\gui\guiInfoAdder.cpp">
+      <Filter>Source Files\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\hand\defineTemplates.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\hand\handDetector.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\hand\handDetectorFromTxt.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\hand\handExtractorCaffe.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\hand\handExtractorNet.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\hand\handCpuRenderer.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\hand\handGpuRenderer.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\hand\handRenderer.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\hand\renderHand.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\net\maximumBase.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\net\maximumCaffe.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\net\netCaffe.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\net\nmsBase.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\net\nmsBaseCL.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\net\nmsCaffe.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\net\resizeAndMergeBase.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\net\resizeAndMergeBaseCL.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\net\resizeAndMergeCaffe.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\pose\bodyPartConnectorBase.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\pose\bodyPartConnectorCaffe.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\pose\defineTemplates.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\pose\poseCpuRenderer.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\pose\poseExtractor.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\pose\poseExtractorCaffe.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\pose\poseExtractorNet.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\pose\poseGpuRenderer.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\pose\poseParameters.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\pose\poseParametersRender.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\pose\poseRenderer.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\pose\renderPose.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\producer\defineTemplates.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\producer\flirReader.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\producer\imageDirectoryReader.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\producer\ipCameraReader.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\producer\producer.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\producer\spinnakerWrapper.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\producer\videoCaptureReader.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\producer\videoReader.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\producer\webcamReader.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\thread\defineTemplates.cpp">
+      <Filter>Source Files\thread</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\tracking\defineTemplates.cpp">
+      <Filter>Source Files\tracking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\tracking\personIdExtractor.cpp">
+      <Filter>Source Files\tracking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\tracking\personTracker.cpp">
+      <Filter>Source Files\tracking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\tracking\pyramidalLK.cpp">
+      <Filter>Source Files\tracking</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\utilities\errorAndLog.cpp">
+      <Filter>Source Files\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\utilities\fileSystem.cpp">
+      <Filter>Source Files\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\utilities\flagsToOpenPose.cpp">
+      <Filter>Source Files\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\utilities\keypoint.cpp">
+      <Filter>Source Files\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\utilities\openCv.cpp">
+      <Filter>Source Files\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\utilities\profiler.cpp">
+      <Filter>Source Files\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\utilities\string.cpp">
+      <Filter>Source Files\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\wrapper\defineTemplates.cpp">
+      <Filter>Source Files\wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\wrapper\wrapperAuxiliary.cpp">
+      <Filter>Source Files\wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\wrapper\wrapperStructExtra.cpp">
+      <Filter>Source Files\wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\wrapper\wrapperStructFace.cpp">
+      <Filter>Source Files\wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\wrapper\wrapperStructHand.cpp">
+      <Filter>Source Files\wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\wrapper\wrapperStructInput.cpp">
+      <Filter>Source Files\wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\wrapper\wrapperStructOutput.cpp">
+      <Filter>Source Files\wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\wrapper\wrapperStructPose.cpp">
+      <Filter>Source Files\wrapper</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\face\renderFace.cu">
+      <Filter>Source Files\face</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\hand\renderHand.cu">
+      <Filter>Source Files\hand</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\net\maximumBase.cu">
+      <Filter>Source Files\net</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\net\nmsBase.cu">
+      <Filter>Source Files\net</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\net\resizeAndMergeBase.cu">
+      <Filter>Source Files\net</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\pose\bodyPartConnectorBase.cu">
+      <Filter>Source Files\pose</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\pose\renderPose.cu">
+      <Filter>Source Files\pose</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\src\openpose\tracking\pyramidalLK.cu">
+      <Filter>Source Files\tracking</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\build\src\openpose\CMakeFiles\openpose.dir\face\$(Configuration)\openpose_generated_renderFace.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\build\src\openpose\CMakeFiles\openpose.dir\hand\$(Configuration)\openpose_generated_renderHand.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\build\src\openpose\CMakeFiles\openpose.dir\net\$(Configuration)\openpose_generated_maximumBase.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\build\src\openpose\CMakeFiles\openpose.dir\net\$(Configuration)\openpose_generated_nmsBase.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\build\src\openpose\CMakeFiles\openpose.dir\net\$(Configuration)\openpose_generated_resizeAndMergeBase.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\build\src\openpose\CMakeFiles\openpose.dir\pose\$(Configuration)\openpose_generated_bodyPartConnectorBase.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\build\src\openpose\CMakeFiles\openpose.dir\pose\$(Configuration)\openpose_generated_renderPose.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\build\src\openpose\CMakeFiles\openpose.dir\tracking\$(Configuration)\openpose_generated_pyramidalLK.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{5EEB1E6A-7CB4-31D8-860D-3F5FA757EB1F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6A8222FD-807C-38DC-95A4-B609085544FD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\3d">
+      <UniqueIdentifier>{90B9C480-C6D7-39E7-B9AA-E77F1AC72258}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\calibration">
+      <UniqueIdentifier>{B98E9E0C-045C-3499-876D-83ED542C141F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\core">
+      <UniqueIdentifier>{E4E9FF0A-A9A6-3297-A3EB-8F6CDE2C8090}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\face">
+      <UniqueIdentifier>{E2B5A36D-1916-3EAF-A19A-B29AB0040AE9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\filestream">
+      <UniqueIdentifier>{5B060669-5D7B-30C5-959B-E60EDFE8253E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\gpu">
+      <UniqueIdentifier>{44DC1247-B24B-32BD-8864-D2497461969C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\gui">
+      <UniqueIdentifier>{40A28C2A-1C27-34F5-A763-EB1F8C34641B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\hand">
+      <UniqueIdentifier>{6DC6B392-1B5F-3A66-BF3B-5271F13B2BFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\net">
+      <UniqueIdentifier>{467B9F9F-1CB7-3D22-B8D0-882FFEA98882}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\pose">
+      <UniqueIdentifier>{901A4014-9F00-358A-9815-99C787943612}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\producer">
+      <UniqueIdentifier>{E2ACA3F1-FF95-356E-A6F4-6BE87E7B956A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\thread">
+      <UniqueIdentifier>{EAC27073-8776-315D-8CDA-D3547A561073}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tracking">
+      <UniqueIdentifier>{E806DEC0-A866-3056-B691-6928161E05C5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\utilities">
+      <UniqueIdentifier>{28B11DB6-377C-3AF5-9790-7941BC21D3C1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\wrapper">
+      <UniqueIdentifier>{41917796-542B-3CF0-99DE-B67E50AE1EBC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

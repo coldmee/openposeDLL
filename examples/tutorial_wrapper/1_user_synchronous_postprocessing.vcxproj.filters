@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\게스트\Desktop\cm\openpose-1.4.0\examples\tutorial_wrapper\1_user_synchronous_postprocessing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6A8222FD-807C-38DC-95A4-B609085544FD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

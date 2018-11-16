@@ -1,0 +1,17 @@
+﻿  openpose.cpp
+C:\Users\게스트\Desktop\cm\openpose-1.4.0\3rdparty\windows\opencv\include\opencv2/core/mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\게스트\Desktop\cm\openpose-1.4.0\3rdparty\windows\opencv\include\opencv2/core/persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\게스트\Desktop\cm\openpose-1.4.0\3rdparty\windows\opencv\include\opencv2/core/utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\게스트\Desktop\cm\openpose-1.4.0\3rdparty\windows\opencv\include\opencv2/core/utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\게스트\Desktop\cm\openpose-1.4.0\examples\openpose\openpose.cpp(84): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\게스트\Desktop\cm\openpose-1.4.0\examples\openpose\openpose.cpp(108): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\게스트\Desktop\cm\openpose-1.4.0\examples\openpose\openpose.cpp(3): warning C4100: 'output': 참조되지 않은 정식 매개 변수입니다.
+     C:/Users/게스트/Desktop/cm/openpose-1.4.0/build/examples/openpose/Release/OpenPoseDemo.lib 라이브러리 및 C:/Users/게스트/Desktop/cm/openpose-1.4.0/build/examples/openpose/Release/OpenPoseDemo.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+c:\users\게스트\desktop\cm\openpose-1.4.0\examples\openpose\openpose.cpp(119): warning C4701: 초기화되지 않았을 수 있는 'poseKeypointsArray' 지역 변수를 사용했습니다.
+c:\users\게스트\desktop\cm\openpose-1.4.0\examples\openpose\openpose.cpp(119): warning C4703: 초기화되지 않았을 수 있는 로컬 포인터 변수 'poseKeypointsArray'이(가) 사용되었습니다.
+  38 of 444 functions ( 8.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  OpenPoseDemo.vcxproj -> C:\Users\게스트\Desktop\cm\openpose-1.4.0\build\x64\Release\OpenPoseDemo.dll
